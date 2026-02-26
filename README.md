@@ -7,6 +7,6 @@ Get the data that matters. This addon provides a clean, top-left overlay immedia
 # To add this addon
 1. Copy the code in the main.js section
 2. Paste it into tampermonkey
-You're all set!
-Post your feedback in https://discord.gg/aeRJB2svE6
-We would love to hear from your feedback.
+3. You're all set!
+4. Post your feedback in https://discord.gg/aeRJB2svE6
+5. We would love to hear from your feedback.
