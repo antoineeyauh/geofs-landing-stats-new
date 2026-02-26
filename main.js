@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         GeoFS Precise Stats - Peak Impact
+// @name         GeoFS Precise Stats
 // @namespace    http://tampermonkey.net/
 // @version      2.1
 // @description  Captures PEAK descent rate before impact to ensure accuracy for hard landings.
-// @author       User
+// @author       antoineeyauh
 // @match        https://www.geo-fs.com/geofs.php*
 // @match        https://geo-fs.com/geofs.php*
 // @grant        none
